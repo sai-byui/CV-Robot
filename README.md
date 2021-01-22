@@ -1,2 +1,2 @@
-# CV-Animatronics
-Ideas and solutions to Computer Vision controlled Animatronics (Robotic arm)
+# CV-Robot
+Ideas and solutions to Computer Vision controlled (Robotic arm)
