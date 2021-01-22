@@ -1,22 +1,14 @@
 Research ideas
 
-MediaPipe
+The idea is to use Object detection with a camera above to have a robotic arm organize objects by either shape or color into certain areas avalible to it.
 
-Google team made hand tracker. 
-https://google.github.io/mediapipe/solutions/hands
+MediaPipe?
 
 https://github.com/google/mediapipe
 
 
 This is the robot we will be modifying for our needs
-https://www.thingiverse.com/thing:2838239
-(bionic hand prosthesis prototype byBribro12is licensed under theCreative Commons - Attribution - Non-Commercial - No Derivativeslicense.)
+https://www.thingiverse.com/thing:1454048
+(EEZYbotARM MK2 bydaGHIZmois licensed under theCreative Commons - Attribution - Non-Commerciallicense)
 
 
-Face Detection (similar to end-goal and could have useful info)
-https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/
-
-Hand detection
-https://pierfrancesco-soffritti.medium.com/handy-hands-detection-with-opencv-ac6e9fb3cec1
-
-https://www.intorobotics.com/9-opencv-tutorials-hand-gesture-detection-recognition/
