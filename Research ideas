@@ -5,8 +5,11 @@ REMINDER
     
 Research ideas
 
+http://manipulation.csail.mit.edu/
+
+
 https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/
-where i created my own steps below from
+where i created my own steps below from this link
 
 
 The idea is to use Object detection with a camera above to have a robotic arm organize objects by either shape or color into certain areas avalible to it.
