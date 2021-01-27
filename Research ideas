@@ -5,6 +5,10 @@ REMINDER
     
 Research ideas
 
+https://scottlocklin.wordpress.com/2020/07/29/open-problems-in-robotics/
+where i created my own steps below from
+
+
 The idea is to use Object detection with a camera above to have a robotic arm organize objects by either shape or color into certain areas avalible to it.
 
 MediaPipe?
