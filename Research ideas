@@ -1,3 +1,5 @@
+REMINDER 
+    THIS IS A MASSIVE PROJECT THAT I AM ACTIVELY WORKING ON
 Research ideas
 
 The idea is to use Object detection with a camera above to have a robotic arm organize objects by either shape or color into certain areas avalible to it.
@@ -12,3 +14,18 @@ https://www.thingiverse.com/thing:1454048
 (EEZYbotARM MK2 bydaGHIZmois licensed under theCreative Commons - Attribution - Non-Commerciallicense)
 
 
+Steps
+
+1. Robotic arm design 
+done (kind of) I need to finish 3d printing it
+
+2.End effector design (how the robot interacts with the world)
+done (kind of)
+
+3.Object recognition
+
+4.Task planning
+
+5.Motion planning
+
+6.Low level control
