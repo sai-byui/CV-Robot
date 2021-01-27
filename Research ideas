@@ -1,5 +1,8 @@
 REMINDER 
     THIS IS A MASSIVE PROJECT THAT I AM ACTIVELY WORKING ON
+    please understand that this is a long term project (like potentially upwards of a year) 
+    I want to use this to fully understand every facet of higher robotic concepts and how to utilize them to create a "smart" robot
+    
 Research ideas
 
 The idea is to use Object detection with a camera above to have a robotic arm organize objects by either shape or color into certain areas avalible to it.
@@ -44,7 +47,7 @@ and than move it all while avoiding other things and being CAREFUL AND SAFE
  these planned trajectories into motor forces and the low level controller converts them to the values needed. Basically we need to figure out how to get the rasbperry pi 
  and an arduino to tlak as if they were best friends
  We may also want to add some feedback control like some simple sensors within the arm to help get an accurate estimate of the state of the robot arm. The camera could do this by istelf 
- but i have much more preactice with simple resistance sensors. THis is really to make sure the robot isnt being stupid
+ but i have much more preactice with simple resistance sensors. This is really to make sure the robot isnt being stupid
 
 
 
