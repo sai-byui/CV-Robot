@@ -20,6 +20,22 @@ We decided to build our own robot modified from this open source design https://
 Denver:
 
  [ <font size="6"> Denver Portion</font>](Denver.md)
+ 
+ Ned:
+
+ [ <font size="6"> Ned Portion</font>](Ned.md)
+ 
+ Joseph:
+
+ [ <font size="6"> Joseph Portion</font>](Joseph.md)
+ 
+ Aaron:
+
+ [ <font size="6"> Aaron Portion</font>](Aaron.md)
+ 
+ Alex:
+
+ [ <font size="6"> Alex Portion</font>](Alex.md)
 
 
 
