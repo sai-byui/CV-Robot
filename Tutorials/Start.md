@@ -5,6 +5,9 @@ The goal of this project is to use Object detection with a camera which would be
 ## Starting off
 We have quite a few things you will need to install to get this all working properly. 
 
+## What is ROS
+In my case i have decided that I will use ROS2 for much of the higher level decisions and control that the Robot Operating System can provide. It is an open source middleware suite basically meaning that is provides direction and communication to a connected series of devices. You can find more info here: https://en.wikipedia.org/wiki/Robot_Operating_System
+
 ## Getting ROS2 Installed
 
 In order to recreate our project exactly (or closely) you will need to install ROS2 on both your computer and a raspberry pi 4. 
@@ -18,8 +21,7 @@ https://docs.ros.org/en/crystal/Installation/Linux-Install-Debians.html
 We decided to build our own robot modified from this open source design https://www.thingiverse.com/thing:1454048
 
 
-## What is ROS
-In my case i have decided that I will use ROS2 for much of the higher level decisions and control that the Robot Operating System can provide. It is an open source middleware suite basically meaning that is provides direction and communication to a connected series of devices. You can find more info here: https://en.wikipedia.org/wiki/Robot_Operating_System
+
 
 ## The beginning
 So... being a college student whose wife will kill me if I spend more thn 100 bucks on a robot I will need to get creative. Which has its benefits. I plan on following 
