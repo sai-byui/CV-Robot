@@ -4,6 +4,7 @@ The goal of this project is to use Object detection with a camera which would be
 
 ## Starting off
 We have quite a few things you will need to install to get this all working properly. 
+I would reccomend installing VMware onto your computer and putting Ubuntu Linux on it. It works great and you dont have to deal with dual booting linux. After that you can install all the other things oyu need tfor the project on the Linux OS you created through it.
 
 ## What is ROS
 In my case i have decided that I will use ROS2 for much of the higher level decisions and control that the Robot Operating System can provide. It is an open source middleware suite basically meaning that is provides direction and communication to a connected series of devices. You can find more info here: https://en.wikipedia.org/wiki/Robot_Operating_System
