@@ -1,4 +1,4 @@
- [ <font size="10"> How to Guide</font>](Tutorials/Start.md)
+ [ <font size="30"> How to Guide</font>](Tutorials/Start.md)
 
 # Planning
 The current plan is to use Object detection with a camera above to have a robotic arm organize objects by either shape or color into certain areas avalible to it.
