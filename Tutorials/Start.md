@@ -30,10 +30,10 @@ For each of these links it should take you to different aspects of the robot tha
 
 2. [ <font size="30"> End effector design (how the robot interacts with the world) e</font>](Tutorials/effector.md) 
 
-3. [ <font size="30"> Object recognition e</font>](Tutorials/OR.md)   
+3. [ <font size="30"> Object recognition </font>](Tutorials/OR.md)   
 
-4. [ <font size="30"> Task Planning e</font>](Tutorials/TP.md) How do we want to help the robot determine what its actions should be? This could be as simple as some if statements or as complex as a large neural network.
+4. [ <font size="30"> Task Planning </font>](Tutorials/TP.md) 
 
-5. [ <font size="30"> Motion planning e</font>](Tutorials/MP.md) 
+5. [ <font size="30"> Motion planning </font>](Tutorials/MP.md) 
 
-6.  [ <font size="30"> Low level control e</font>](Tutorials/LLC.md) 
+6.  [ <font size="30"> Low level control </font>](Tutorials/LLC.md) 
