@@ -53,17 +53,11 @@ where i created my own steps from this link
 https://en.wikipedia.org/wiki/Robot_kinematics
 A good understanding of physics and specifically kinematics and how rigid structures with jointss are affected
 
-(i found the following explaination for robotic kinematicsonline)
+
 This is basically doing the math to say when I move motor n, the system moves in Cartesian (x, y, z) by (i, j, k). 
 This applies the other way too, where if you want to move i in x direction, you may need to move multiple motors together.
 
 
 ### MediaPipe?
 https://github.com/google/mediapipe
-
-
-### This is the robot we will be modifying for our needs
-https://www.thingiverse.com/thing:1454048
-(EEZYbotARM MK2 bydaGHIZmois licensed under theCreative Commons - Attribution - Non-Commerciallicense)
-
 
