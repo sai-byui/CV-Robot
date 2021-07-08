@@ -1,0 +1,2 @@
+# Motion Planning
+This is done mostly through the middleware ROS2 software but done with a custum module that i designed. Kinematics is the core of my module of course but with some outlying A.I algorithms to help it along woth some logic.
