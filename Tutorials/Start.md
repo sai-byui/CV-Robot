@@ -26,9 +26,9 @@ So... being a college student whose wife will kill me if I spend more thn 100 bu
 a six step process which should help me in the creation of this 100 dollar robot (that I will be using to learn many high level skills i would hope will look favorable for a good internship)
 For each of these links it should take you to different aspects of the robot that I plan on working on so you can see how I accomplished them.
 
-1. [ <font size="30"> Robotic Arm Design e</font>](Tutorials/RAD.md)
+1. [ <font size="30"> Robotic Arm Design </font>](Tutorials/RAD.md)
 
-2. [ <font size="30"> End effector design (how the robot interacts with the world) e</font>](Tutorials/effector.md) 
+2. [ <font size="30"> End effector design </font>](Tutorials/effector.md) 
 
 3. [ <font size="30"> Object recognition </font>](Tutorials/OR.md)   
 
