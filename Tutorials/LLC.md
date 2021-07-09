@@ -1,4 +1,4 @@
-# Low Level Control (known to me as the BEAST OF THIS PROJECT)
+# Low Level Control (the BEAST OF THIS PROJECT for some reason)
 
 Oh boy... where to even begin. This gave me way more issues than i even thought possible.
 
