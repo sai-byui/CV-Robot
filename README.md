@@ -1,6 +1,6 @@
 # The Goal
 
-The goal of this project is to use Object detection with a camera which would be used by a robotic arm to perfrom different tasks in increased compl.exity
+My goal with this robot is to take it in steps and to increase my understanding of complex robotics and A.I. I originally was jsut going to deal with regognizing the full enviroment presented to it and that the Robot Arm would be able to move objects to either get to other ones or simply or organize them as it saw fit (unsupervised learning potentially for the task planning). But we in the A.I society had a showcase that was coming up and we wanted to show what we were doing so i Decided to break this up into three seperate projects of increasing complexity that I could create A.I to solve starting with a Tic-Tac-Toe bot that we could show-off at the showcase and make in under 2 weeks.
 
 ## Starting off
 We have quite a few things you will need to install to get this all working properly. 
@@ -40,11 +40,9 @@ Now for these next steps each of these may be very similar or change a lot as I 
 4. [ <font size="30"> Organizing Blocks and other "higher level concepts" (for me at least) </font>](https://github.com/sai-byui/CV-Robot/blob/main/complexROS_bot/blocks.md) 
 
 
- [ <font size="30"> How to Guide</font>](Tutorials/Start.md)
-
 # Planning
 My plan with this robot is to take it in steps and to increase my understanding of complex robotics and A.I step by step as I get better with it.
-Firstly all three of these plans will use the ROS system but with increased complexity
+Firstly all three of these plans will use the ROS system but with increased complexity.
 
 1. Use the Robot to play Tic-Tac-Toe against a human player. (The task planning for this would be simple because you as the designer know the desired outcome and the steps it needs to do to get there.
 2. Use the Robot to play Chess against a Player. This will increase the task planning and decision making by quite a bit while still keeping it within the realm of supervised learning. I have already finished the portion of the A.I regarding to playing chess. The real issue is implementing this physically.
