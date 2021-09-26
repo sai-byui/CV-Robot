@@ -1,7 +1,14 @@
  [ <font size="30"> How to Guide</font>](Tutorials/Start.md)
 
 # Planning
-The current plan is to use Object detection with a camera above to have a robotic arm organize objects by either shape or color into certain areas avalible to it.
+My plan with this robot is to take it in steps and to increase my understanding of complex robotics and A.I step by step as I get better with it.
+Firstly all three of these plans will use the ROS system but with increased complexity
+
+1. Use the Robot to play Tic-Tac-Toe against a human player. (The task planning for this would be simple because you as the designer know the desired outcome and the steps it needs to do to get there.
+2. Use the Robot to play Chess against a Player. This will increase the task planning and decision making by quite a bit while still keeping it within the realm of supervised learning. I have already finished the portion of the A.I regarding to playing chess. The real issue is implementing this physically.
+3. Lastly I want to explore the unsupervised realm more by seeing If i can build a robot that trains itself to recognize3 and organize blocks using unsupervised learning techniques.
+
+The current plan is to use Object detection with a camera above to have a robotic arm
 
 
 ## Neural Networks
