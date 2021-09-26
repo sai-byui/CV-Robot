@@ -35,6 +35,6 @@ Now for these next steps each of these may be very similar or change a lot as I 
 
 2. [ <font size="30"> Tic-Tac-Toe </font>](tictactoe_bot/tictactoe.md) 
 
-3. [ <font size="30"> Chess </font>](chess_bot/chess.md)   
+3. [ <font size="30"> Chess </font>](https://github.com/sai-byui/CV-Robot/blob/main/chess_bot/chess.md)   
 
 4. [ <font size="30"> Organizing Blocks and other "higher level concepts" (for me at least) </font>](complesROS_bot/blocks.md) 
