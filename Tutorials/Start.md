@@ -33,8 +33,8 @@ For each of these links it should take you to different aspects of the robot tha
 
 Now for these next steps each of these may be very similar or change a lot as I accomplish new tasks on the A.I side of things.
 
-2. [ <font size="30"> Tic-Tac-Toe </font>](tictactoe_bot/tictactoe.md) 
+2. [ <font size="30"> Tic-Tac-Toe </font>](https://github.com/sai-byui/CV-Robot/blob/main/tictactoe_bot/tictactoe.md) 
 
 3. [ <font size="30"> Chess </font>](https://github.com/sai-byui/CV-Robot/blob/main/chess_bot/chess.md)   
 
-4. [ <font size="30"> Organizing Blocks and other "higher level concepts" (for me at least) </font>](complesROS_bot/blocks.md) 
+4. [ <font size="30"> Organizing Blocks and other "higher level concepts" (for me at least) </font>](https://github.com/sai-byui/CV-Robot/blob/main/complexROS_bot/blocks.md) 
