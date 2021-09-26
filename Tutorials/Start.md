@@ -1,6 +1,6 @@
 # The Goal
 
-The goal of this project is to use Object detection with a camera which would be used by a robotic arm to organize objects by either shape or color into certain areas avalible to it.
+The goal of this project is to use Object detection with a camera which would be used by a robotic arm to perfrom different tasks in increased compl.exity
 
 ## Starting off
 We have quite a few things you will need to install to get this all working properly. 
@@ -29,14 +29,12 @@ So... being a college student whose wife will kill me if I spend more thn 100 bu
 a six step process which should help me in the creation of this 100 dollar robot (that I will be using to learn many high level skills i would hope will look favorable for a good internship)
 For each of these links it should take you to different aspects of the robot that I plan on working on so you can see how I accomplished them.
 
-1. [ <font size="30"> Robotic Arm Design </font>](RAD.md)
+1. [ <font size="30"> Robotic Arm Design (DONE)</font>](RAD.md)
 
-2. [ <font size="30"> End effector design </font>](effector.md) 
+Now for these next steps each of these may be very similar or change a lot as I accomplish new tasks on the A.I side of things.
 
-3. [ <font size="30"> Object recognition </font>](OR.md)   
+2. [ <font size="30"> End effector design </font>](tictactoe.md) 
 
-4. [ <font size="30"> Task Planning </font>](TP.md) 
+3. [ <font size="30"> Object recognition </font>](chess.md)   
 
-5. [ <font size="30"> Motion planning </font>](MP.md) 
-
-6.  [ <font size="30"> Low level control </font>](LLC.md) 
+4. [ <font size="30"> Task Planning </font>](blocks.md) 
